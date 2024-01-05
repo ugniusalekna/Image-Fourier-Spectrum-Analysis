@@ -1,4 +1,4 @@
-# DIP_Compulsory_Assignment_2
+# Fourier Analysis for Image Processing Tasks
 The second compulsory assignment for the course Digital Image Processing
 
 This repository contains Compulsory Assignment 2. The assignment concerns the practical exercises covered
